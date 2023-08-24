@@ -19,6 +19,7 @@ Nasi lemak illustration by [Freepik](https://www.freepik.com/free-vector/organic
 Soba illustration by [pikisuperstar](https://www.freepik.com/free-vector/watercolor-toshikoshi-soba\_11330904.htm?query=nasi%20goreng) on Freepik
 
 ## Freepik License
+
 You are free to use Freepik images:
 
 - For personal and commercial projects
@@ -31,4 +32,18 @@ You may NOT:
 
 Full license terms: http://www.freepik.com/terms_of_use  
 
-Let me know if you would like me to modify the formatting further!
+### License summary
+Free license
+### Our license allows you to use the content
+
+- For commercial and **personal projects**
+
+- On digital or **printed media** 
+
+- For an **unlimited number of times** and without any time limits
+
+- From **anywhere in the world**
+
+- To make **modifications** and create derivative works
+  
+*This text is a summary for information purposes only. It does not constitute any contractual obligations. For more information, please read our Terms of use before using the content.
