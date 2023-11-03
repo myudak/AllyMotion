@@ -8,7 +8,7 @@ Health Management App With Convolutional Neural Network And Gamified Exercise Wi
   <a href="#"><img alt="Android OS" src="https://img.shields.io/badge/OS-Android-3DDC84?style=flat-square&logo=android"></a>
   <a href="#"><img alt="Languages-Kotlin" src="https://flat.badgen.net/badge/Language/Kotlin?icon=https://raw.githubusercontent.com/binaryshrey/Awesome-Android-Open-Source-Projects/master/assets/Kotlin_Logo_icon_white.svg&color=f18e33"/></a>
   <a href="#"><img alt="Languages-Java" src="https://img.shields.io/badge/Language-Java-1DA1F2?style=flat-square&logo=java"></a>
-  <a href="#"><img alt="OpenSource" src="https://flat.badgen.net/badge/Open-Source/HacktoberFest?icon=https://raw.githubusercontent.com/binaryshrey/Awesome-Android-Open-Source-Projects/master/assets/DO_Logo_icon_white.svg&color=f18e33"/></a>
+  <a href="#"><img alt="AllyMotion" src="https://github.com/myudak/AllyMotion/blob/ec0f8db25b898bd317d45ad1ad1551ca4103084e/framemeta.png"/></a>
   <a href="#"><img alt="PRs" src="https://img.shields.io/badge/PRs-Welcome-3DDC84?style=flat-square"></a>
 </p>
 <p align="center">
