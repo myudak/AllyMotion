@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/custom_actionbar_relative_layout_main"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:background="@color/black"
+    android:enabled="false" >
+
+    <TextView
+        android:id="@+id/textviewactivityname"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:background="@android:color/transparent"
+        android:gravity="center_vertical"
+        android:text="WhatFood"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+        tools:ignore="RtlCompat" />
+
+</RelativeLayout>
