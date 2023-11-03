@@ -1,0 +1,37 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/drawable/buttonrounded.xml" value="0.2265" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/drawable/editrounded.xml" value="0.2265" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/drawable/gradien_background.xml" value="0.2265" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2265" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2265" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.2265" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/drawable/ic_baseline_videogame_asset_24.xml" value="0.2265" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/drawable/ic_frame_logo.xml" value="0.2265" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/drawable/ic_group.xml" value="0.2265" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/drawable/ic_home.xml" value="0.2265" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/drawable/ic_logao_.xml" value="0.176" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/drawable/ic_logo.xml" value="0.2265" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/drawable/ic_logo__1_.xml" value="0.2265" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/drawable/ic_logo__bener_.xml" value="0.2265" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/drawable/rectangle.xml" value="0.2265" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/layout/activity_login.xml" value="0.18449682683590207" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/layout/activity_login_google.xml" value="0.18449682683590207" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/layout/activity_register.xml" value="0.22826086956521738" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/layout/activity_welcome.xml" value="0.20521590423257802" />
+        <entry key="..\:/Project/belajarKotlin/AllyMotion/app/src/main/res/menu/bottom_nav_menu.xml" value="0.21621621621621623" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
